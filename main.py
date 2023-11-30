@@ -5,7 +5,7 @@ from maze import Maze
 def main():
     # - Let's create a Maze !
     window = Window(800, 600)
-    maze = Maze(20, 20, 24, 32, 50, 30, window)
+    maze = Maze(20, 20, 10,14, 80,50, window)
 
     # * Let's break some walls !
     maze._break_walls_r(0, 0)

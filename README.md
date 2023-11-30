@@ -38,7 +38,6 @@ python main.py
   - Number of cell rows and columns
   - The width and height of cells.
 - Maze solving: Implements an algorithm to find the path from the start to the end of the maze.
--
 - Graphical user interface: Visual representation of the maze and the solving process using Tkinter.
 
 ## Testing
